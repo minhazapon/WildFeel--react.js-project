@@ -6,7 +6,7 @@ const Footer = () => {
         <div>
          
 
-       
+         <hr></hr>
 
 <footer className="footer bg-black text-neutral-content mt-20 p-10">
 

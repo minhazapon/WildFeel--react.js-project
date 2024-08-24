@@ -3,9 +3,16 @@
 
 const Banner = () => {
     return (
-        <div className=" mb-10">
+        <div className=" mb-10 bg-no-repeat bg-cover p-32 "
+        
+        style={{
+          backgroundImage: "url(  https://img.freepik.com/free-photo/men-hiking-with-dog-standing-mountain-peak-sunset-generated-by-artificial-intelligence_188544-84965.jpg?t=st=1724513086~exp=1724516686~hmac=cc036ccf7d58905afaf9e32b42a8676647ed6c75f88cd392c4a252e0dcead031&w=826  )",
+        }}
+        
+        
+        >
 
-            <div>
+            <div className=" bg-gradient-to-r from-black  p-5">
 
 
               <p className=" text-center text-white font-semibold text-6xl">Best Camping in the National Park</p>
@@ -14,7 +21,7 @@ const Banner = () => {
 
               <div className=" mt-10 flex justify-center gap-5">
                <button className=" btn border-[1px] bg-black text-white">Our Story</button>
-               <button className=" text-white border-[1px] h-[50px] p-2 rounded-xl ">Contact Us</button>
+               <button className=" btn border-[1px] bg-black text-white ">Contact Us</button>
               </div>
 
               <div className=" mt-10 flex justify-center ">
