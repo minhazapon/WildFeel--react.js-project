@@ -10,6 +10,7 @@ import Root from './Root.jsx';
 import Home from './Home.jsx';
 import Connect from './Contact/Connect.jsx';
 import About from './about file/About.jsx';
+import Gallery from './gallery file/Gallery.jsx';
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: "/about",
         element:  <About></About>     ,
+      },
+      {
+        path: "/gallery",
+        element:  <Gallery></Gallery>  ,
       },
     ],
   },
