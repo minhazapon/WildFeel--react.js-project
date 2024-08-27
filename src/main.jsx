@@ -11,6 +11,7 @@ import Home from './Home.jsx';
 import Connect from './Contact/Connect.jsx';
 import About from './about file/About.jsx';
 import Gallery from './gallery file/Gallery.jsx';
+import Places from './places/Places.jsx';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: "/gallery",
         element:  <Gallery></Gallery>  ,
+      },
+      {
+        path: "/places",
+        element:  <Places></Places>   ,
       },
     ],
   },

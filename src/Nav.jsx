@@ -13,6 +13,7 @@ const Nav = () => {
        <li className=' text-white  font-serif' ><NavLink to="/about" >About</NavLink></li>
        <li className=' text-white  font-serif' ><NavLink to="/contact" >Contact</NavLink></li>
        <li className=' text-white  font-serif' ><NavLink to="/gallery" >Gallery</NavLink></li>
+       <li className=' text-white  font-serif' ><NavLink to="/places" >Places</NavLink></li>
     
     
     </>
