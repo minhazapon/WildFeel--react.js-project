@@ -4,6 +4,7 @@ import Info from "./Info";
 import OutDoor from "./OutDoor";
 import This from "./This";
 import Where from "./Where";
+import ContactUS from '../Home file/ContactUs'
 
 
 
@@ -18,6 +19,7 @@ const Gallery = () => {
             <OutDoor></OutDoor>
             <Info></Info>
             <Where></Where>
+            <ContactUS></ContactUS>
             
         </div>
     );

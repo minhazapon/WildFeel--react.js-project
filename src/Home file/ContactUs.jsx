@@ -5,7 +5,7 @@ const ContactUs = () => {
         <div className=" mt-10 bg-no-repeat bg-cover p-40 "
         
         style={{
-            backgroundImage: "url(https://img.freepik.com/free-photo/silhouette-men-hiking-mountain-peak-sunset-generative-ai_188544-12480.jpg?t=st=1724595025~exp=1724598625~hmac=36a033997eea4e6bed83c35a3711e1cf958ef0659ae730954955042ae708eaec&w=826)",
+            backgroundImage: "url(https://img.freepik.com/premium-photo/back-side-photographer-red-tshirt-with-modern-camera-photography-capturing-waterfall-landscap_368093-5169.jpg?w=740)",
           }}
         
         >
