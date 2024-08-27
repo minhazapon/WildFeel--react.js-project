@@ -3,10 +3,10 @@
 
 const Banner = () => {
     return (
-        <div className=" mb-10 bg-no-repeat bg-cover p-32 "
+        <div className=" mb-10 bg-no-repeat bg-cover  p-20 "
         
         style={{
-          backgroundImage: "url(  https://img.freepik.com/free-photo/men-hiking-with-dog-standing-mountain-peak-sunset-generated-by-artificial-intelligence_188544-84965.jpg?t=st=1724513086~exp=1724516686~hmac=cc036ccf7d58905afaf9e32b42a8676647ed6c75f88cd392c4a252e0dcead031&w=826  )",
+          backgroundImage: "url(  https://img.freepik.com/premium-photo/mountain-challenge-climbers-testing-their-courage-strength-mountains-set-against-stunning-scenery-showcasing-spirit-adventure-personal-resilience-needed-conquer-natures-heights_771426-92060.jpg?w=826  )",
         }}
         
         
